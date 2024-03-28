@@ -18,7 +18,7 @@ Before you begin, ensure you have installed the following:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/Emmeline1101/WebMail-System.git
 cd WebMail-System
 ```
 
