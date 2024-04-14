@@ -10,7 +10,7 @@
     "watch": "webpack --watch",
     "serve": "webpack serve"
   },
-  "author": "Tianyao Chen",
+  "author": "Emmeline Xu",
   "license": "ISC",
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
